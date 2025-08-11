@@ -1,0 +1,6 @@
+@BrownieBackend_HostAddress = http://localhost:5064
+
+GET {{BrownieBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
